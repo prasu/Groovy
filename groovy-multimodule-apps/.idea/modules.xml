@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-api.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-api.iml" group="groovy-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-api/groovy-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-api/groovy-api_main.iml" group="groovy-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-api/groovy-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-api/groovy-api_test.iml" group="groovy-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-dsl.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-dsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-dsl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-dsl_main.iml" group="groovy-dsl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-dsl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-dsl_test.iml" group="groovy-dsl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-multimodule-apps.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-multimodule-apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-multimodule-apps_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-multimodule-apps_main.iml" group="groovy-multimodule-apps" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-multimodule-apps_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-multimodule-apps_test.iml" group="groovy-multimodule-apps" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-parser.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-parser.iml" group="groovy-parser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-parser/groovy-parser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-parser/groovy-parser_main.iml" group="groovy-parser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-parser/groovy-parser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-parser/groovy-parser_test.iml" group="groovy-parser" />
+    </modules>
+  </component>
+</project>

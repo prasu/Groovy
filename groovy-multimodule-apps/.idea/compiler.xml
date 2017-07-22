@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="groovy-api_main" target="1.8" />
+      <module name="groovy-api_test" target="1.8" />
+      <module name="groovy-dsl_main" target="1.8" />
+      <module name="groovy-dsl_test" target="1.8" />
+      <module name="groovy-multimodule-apps_main" target="1.8" />
+      <module name="groovy-multimodule-apps_test" target="1.8" />
+      <module name="groovy-parser_main" target="1.8" />
+      <module name="groovy-parser_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
